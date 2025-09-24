@@ -1,6 +1,6 @@
 # Projct
 
-A fast, configurable directory tree generator with file content extraction.
+A fast, configurable directory tree generator with file content extraction
 
 ## Features
 
